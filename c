@@ -1,0 +1,1 @@
+C is a general-purpose, procedural programming language created in 1972 by Dennis Ritchie at Bell Labs. It compiles directly to machine code and gives programmers low-level access to memory and hardware with minimal runtime overhead.
