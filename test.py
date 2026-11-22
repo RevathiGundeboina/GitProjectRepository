@@ -1,0 +1,1 @@
+Python is a general-purpose programming language widely used for artificial intelligence, data science, web development, and task automation. Its plain, English-like syntax and massive collection of pre-built libraries make it one of the most popular languages for both beginners and major tech companies.
